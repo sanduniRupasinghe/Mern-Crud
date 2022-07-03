@@ -1,3 +1,3 @@
 # Mern-Crud
-User Management System using mern stack
-Create a new user, edit user detail, delete user account and search the users from user name.
+# User Management System using mern stack
+# Create a new users, edit user details, delete user account and search the users from user name.
